@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sudo App</string>
+    <string name="this_is_home_page">This is Home Page</string>
+    <string name="next">NEXT</string>
+    <string name="this_is_next_page">This is Next Page</string>
+    <string name="home">Home</string>
+    <string name="input_and_output">Input and Output</string>
+    <string name="toast_page">Toast Page</string>
+    <string name="button_style">Button Style</string>
+    <string name="check_box">Check Box</string>
+    <string name="switches" tools:ignore="DuplicateDefinition">Switch</string>
+    <string name="spinner">Spinner</string>
+    <string name="progressing_bar">Progressing Bar</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="todo">TODO</string>
+    <string name="paragraph">Paragraph</string>
+    <string name="diferent_switch">Different Switch</string>
+    <string name="welcome_to_sudo_app">Welcome To Sudo APP</string>
+    <string name="todo1">TODO</string>
+
+    <string name="on_or_off">On or OFF</string>
+    <string name="short_length_toast">Short Length Toast</string>
+    <string name="long_length_toast">Long Length Toast</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="ImageButtonToast">TODO</string>
+    <string name="this_is_custom_toast">This is custom Toast</string>
+    <string name="this_is_custom_image_toast">This is custom Toast</string>
+    <string name="imageToast">TODO</string>
+    <string name="different_types_of_button">Different Types of Button</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="different_switches">Different Switches</string>
+    <string name="click">Click</string>
+    <string name="kotlin">kotlin</string>
+    <string name="java">Java</string>
+    <string name="switchforswitchpage">Switch</string>
+    <string name="todoforswitch">TODO</string>
+    <string name="clickbtn">click</string>
+    <string name="scroll_viewbtn">Scroll View</string>
+    <string name="button1">Button1</string>
+</resources>
